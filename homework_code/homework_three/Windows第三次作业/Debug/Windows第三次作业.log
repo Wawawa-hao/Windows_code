@@ -1,0 +1,10 @@
+﻿  Windows第三次作业.cpp
+D:\20194295_2_2\Code\C++\Windows\Windows第三次作业\Windows第三次作业\Windows第三次作业.cpp(253,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\20194295_2_2\Code\C++\Windows\Windows第三次作业\Windows第三次作业\Windows第三次作业.cpp(253,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\20194295_2_2\Code\C++\Windows\Windows第三次作业\Windows第三次作业\Windows第三次作业.cpp(253,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\20194295_2_2\Code\C++\Windows\Windows第三次作业\Windows第三次作业\Windows第三次作业.cpp(253,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\20194295_2_2\Code\C++\Windows\Windows第三次作业\Windows第三次作业\Windows第三次作业.cpp(260,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\20194295_2_2\Code\C++\Windows\Windows第三次作业\Windows第三次作业\Windows第三次作业.cpp(260,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\20194295_2_2\Code\C++\Windows\Windows第三次作业\Windows第三次作业\Windows第三次作业.cpp(260,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\20194295_2_2\Code\C++\Windows\Windows第三次作业\Windows第三次作业\Windows第三次作业.cpp(260,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Windows第三次作业.vcxproj -> D:\20194295_2_2\Code\C++\Windows\Windows第三次作业\Debug\Windows第三次作业.exe
